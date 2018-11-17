@@ -1,0 +1,14 @@
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.Form1.resources
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\SlavaKorol\Desktop\Учеба\Проганье\VisualStudio\Weather\Weather\bin\Debug\SVG.dll
